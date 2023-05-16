@@ -1,0 +1,17 @@
+.active{
+    color: white;
+    background-color: #1698a8;
+    border-radius: 5px;
+    
+}
+tr:hover{
+    background-color: rgb(211, 195, 195);
+}
+.voir:focus{
+    background-color: white;
+}
+.button:hover{
+    background-color: white;
+    color: #1698a8;
+    border: 2px solid greenyellow;
+}
